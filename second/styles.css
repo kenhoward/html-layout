@@ -1,0 +1,30 @@
+html, body {
+	height: 100%;
+}
+
+.slice {
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+.first {
+	background: rgba(74,144,226,1)
+}
+
+.second {
+	background: rgba(80,227,194,1);
+}
+
+.third {
+	background: rgba(184,233,134,1);
+}
+
+.top {
+	height: 60%;
+}
+
+.bottom {
+	height: 40%;
+	width: 100%;
+}

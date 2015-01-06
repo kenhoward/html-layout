@@ -1,0 +1,47 @@
+html, body {
+	height: 100%;
+	background: :rgba(216,216,216,1);
+}
+
+.slice {
+	height: 20%;
+	width: 100%;
+}
+
+.first {
+	background: rgba(216,216,216,1);
+	height: 20%;
+	width: 100%;
+}
+
+.littleBox {
+	background: rgba(73,147,229,1);
+	z-index: 50;
+	top: 4%;
+	position: absolute;
+	left: 4%;
+	width: 10%;
+	height: 13%;
+}
+
+.text {
+	background: rgba(255,255,255,1);
+	height: 60%;
+	width: 100%;
+}
+
+.third {
+	background: rgba(73,147,229,1);
+}
+
+.fourth {
+	background: rgba(79,226,192,1);
+}
+
+.fifth {
+	background: rgba(184,231,127,1);
+}
+
+.sixth {
+	background: rgba(248,228,0,1);
+}
